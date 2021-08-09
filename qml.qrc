@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/1d5e08c6-cda9-4429-b5a7-92402299cc9e.webp</file>
+        <file>Images/5eb1e502-225c-4510-9287-7d34909ae592.webp</file>
+        <file>Images/91f590d3-a78f-4d84-8019-55b73f94ba88.webp</file>
+        <file>Images/baseline_favorite_border_black_24dp.png</file>
+        <file>Images/baseline_search_black_24dp.png</file>
+        <file>Images/baseline_shopping_cart_black_24dp.png</file>
+        <file>Images/d6df9ea8-b359-4dd2-916d-af88dc36c406.webp</file>
+        <file>Images/Nike-logo-506c4872.png</file>
+        <file>Images/c96d46b2-b9f4-48f9-b81e-b8ca058e30a6.webp</file>
+        <file>Images/3c664897-20e3-4cf9-8493-eb027c91b58d.webp</file>
+        <file>Images/31451dc2-07a9-43c4-bd73-8bfa1cf2f7f2.webp</file>
+        <file>Images/FA19_NikeJoyride_Running_Performance_04-1-e1566313863962.jpg</file>
+        <file>Images/asia_NikeKids.webp</file>
+        <file>Images/ccd08c64484027.5ad45886d3d6c.jpg</file>
+        <file>Images/trend8.webp</file>
+        <file>Images/trend7.webp</file>
+        <file>Images/trend6.webp</file>
+        <file>Images/trend5.webp</file>
+        <file>Images/trend4.webp</file>
+        <file>Images/trend3.webp</file>
+        <file>Images/trend2.webp</file>
+        <file>Images/trend1.webp</file>
+        <file>Images/imageForYou.webp</file>
+        <file>Images/nikeClub.webp</file>
+        <file>Images/Kids.webp</file>
+        <file>Images/woman.webp</file>
+        <file>Images/man.webp</file>
+        <file>Images/facebook.png</file>
+        <file>Images/youtube.png</file>
+        <file>Images/twitter.png</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Images/round_location_on_white_24dp.png</file>
+        <file>Images/instagram.png</file>
+        <file>CustomControls/Text_material.qml</file>
+        <file>CustomControls/Text_materialForm.ui.qml</file>
+        <file>CustomControls/Material_Button.qml</file>
+        <file>CustomControls/SearchBox.qml</file>
+        <file>CustomControls/SearchBoxForm.ui.qml</file>
+        <file>Images/baseline_close_black_24dp.png</file>
+        <file>CustomControls/Material_RoundButton.qml</file>
+    </qresource>
+</RCC>
