@@ -1719,9 +1719,12 @@ ApplicationWindow
             RowLayout {
                 id: rowLayout_socialMedia
                 x: 1370
-                y: 24
                 width: 207
                 height: 44
+                anchors.right: parent.right
+                anchors.top: parent.top
+                anchors.topMargin: 20
+                anchors.rightMargin: 20
 
                 Material_RoundButton {
                     id: roundButton_twitter
@@ -1803,7 +1806,7 @@ ApplicationWindow
                 anchors.bottom: parent.bottom
                 font.pixelSize: 12
                 anchors.bottomMargin: 20
-                anchors.leftMargin: 10
+                anchors.leftMargin: 5
             }
 
             Text {
@@ -1815,7 +1818,7 @@ ApplicationWindow
                 anchors.bottom: parent.bottom
                 font.pixelSize: 12
                 anchors.bottomMargin: 20
-                anchors.leftMargin: 10
+                anchors.leftMargin: 5
             }
 
             Text_material {
@@ -2026,6 +2029,6 @@ ApplicationWindow
 
 /*##^##
 Designer {
-    D{i:0;formeditorZoom:0.5}
+    D{i:0;formeditorZoom:0.9}D{i:165}
 }
 ##^##*/
